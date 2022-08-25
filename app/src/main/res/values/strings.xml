@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Цікаві факти про числа</string>
+
+    <!--    NumbersListFragment-->
+    <string name="fact_number">Отримати факт</string>
+    <string name="fact_random">Отримати факт про випадклве число</string>
+
+<!--     Menu-->
+    <string name="menu_delete_all">видалити локальну базу</string>
+
+
+</resources>
